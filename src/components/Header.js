@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React, {useState} from "react";
 import styled from "styled-components";
 import MenuIcon from "@mui/icons-material/Menu";
@@ -10,7 +11,7 @@ const Header = () => {
   return (
     <Container>
       <a>
-        <img src="/images/logo.svg" />
+        <img src="/images/logo.svg" alt="Logo"/>
       </a>
       <Menu>
       {carInfo.map((e) => (
