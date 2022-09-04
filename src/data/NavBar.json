@@ -1,0 +1,26 @@
+[
+    {
+        "id": 0,
+        "title": "Existing Inventory"
+    },
+    {
+        "id": 1,
+        "title": "Used Inventory"
+    },
+    {
+        "id": 2,
+        "title": "Trade-in"
+    },
+    {
+        "id": 3,
+        "title": "Cybertruck"
+    },
+    {
+        "id": 4,
+        "title": "Cybertruck"
+    },
+    {
+        "id": 5,
+        "title": "Roadster"
+    }
+]
