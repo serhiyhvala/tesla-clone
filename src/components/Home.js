@@ -1,7 +1,7 @@
 import React from "react";
-import styled from "styled-components";
 import Section from "./Section";
 import cartInfo from '../data/carInfo.json'
+import Container from "../styles/HomeStyles"
 function Home() {
   return (
     <Container>
@@ -21,6 +21,4 @@ function Home() {
 
 export default Home;
 
-const Container = styled.div`
-  height: 100vh;
-`;
+
